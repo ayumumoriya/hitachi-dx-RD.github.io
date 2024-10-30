@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hitachi-dx-RD.github.io/sitemap.xml
+Sitemap: https://https://ayumumoriya.github.io/hitachi-dx-RD.github.io/sitemap.xml
